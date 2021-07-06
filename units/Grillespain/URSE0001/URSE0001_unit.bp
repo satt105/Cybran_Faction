@@ -223,7 +223,7 @@ UnitBlueprint {
             MuzzleSalvoDelay = 0,
             MuzzleSalvoSize = 1,
             MuzzleVelocity = 5,
-            ProjectileId = '/Mods/Experimentalcybran/projectiles/CIFMissileExperimentalTactical02/CIFMissileExperimentalTactical02_proj.bp',
+            ProjectileId = '/Mods/Cybran_Faction/projectiles/CIFMissileExperimentalTactical02/CIFMissileExperimentalTactical02_proj.bp',
             ProjectileLifetime = 20,
             ProjectilesPerOnFire = 3,
             RackBones = {
@@ -295,7 +295,7 @@ UnitBlueprint {
             MuzzleSalvoDelay = 0,
             MuzzleSalvoSize = 1,
             MuzzleVelocity = 5,
-            ProjectileId = '/Mods/Experimentalcybran/projectiles/CIFMissileExperimentalTactical02/CIFMissileExperimentalTactical02_proj.bp',
+            ProjectileId = '/Mods/Cybran_Faction/projectiles/CIFMissileExperimentalTactical02/CIFMissileExperimentalTactical02_proj.bp',
             ProjectileLifetime = 20,
             ProjectilesPerOnFire = 3,
             RackBones = {
