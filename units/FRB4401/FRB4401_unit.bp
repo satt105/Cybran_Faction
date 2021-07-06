@@ -172,7 +172,7 @@ UnitBlueprint {
         SonarStealthFieldRadius = 35,
     },
     Interface = {
-        HelpText = '<LOC expshdcyb001_help>Experimental Shield Generator',
+        HelpText = '<LOC expshdcyb001_help>Générateur de bouclier Experimental',
     },
     LifeBarHeight = 0.075,
     LifeBarOffset = 1.25,

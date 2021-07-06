@@ -32,7 +32,6 @@ UnitBlueprint {
     },
     BuildIconSortPriority = 115,
     Categories = {
-        'PRODUCTBREWLANTURRETS',
         'SELECTABLE',
         'BUILTBYTIER3FIELD',
         'CYBRAN',
@@ -53,13 +52,13 @@ UnitBlueprint {
         AirThreatLevel = 0,
         ArmorType = 'Structure',
         EconomyThreatLevel = 2,
-        Health = 18910,
-        MaxHealth = 18910,
+        Health = 12000,
+        MaxHealth = 12000,
         RegenRate = 0,
         SubThreatLevel = 0,
         SurfaceThreatLevel = 0,
     },
-    Description = '<LOC srb2391_desc>Heavy Point Defense',
+    Description = '<LOC srb2391_desc>Défense de pointe lourde',
     Display = {
         Abilities = {
             '<LOC ability_stun>EMP Weapon',

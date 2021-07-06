@@ -22,7 +22,6 @@ UnitBlueprint {
     },
     BuildIconSortPriority = 30,
     Categories = {
-        'PRODUCTBREWLANTURRETS',
         'SELECTABLE',
         'BUILTBYTIER3COMMANDER',
         'BUILTBYTIER3ENGINEER',
@@ -38,7 +37,7 @@ UnitBlueprint {
         'SHOWATTACKRETICLE',
         'OVERLAYDIRECTFIRE',
         'SORTDEFENSE',
-        'RESEARCHLOCKED',
+
     },
     CollisionOffsetY = -1,
     Defense = {
@@ -87,9 +86,9 @@ UnitBlueprint {
         UniformScale = 0.057,
     },
     Economy = {
-        BuildCostEnergy = 175000,
+        BuildCostEnergy = 185000,
         BuildCostMass = 15000,
-        BuildTime = 6000,
+        BuildTime = 6600,
         RebuildBonusIds = {
             'srb2401',
         },
@@ -126,7 +125,7 @@ UnitBlueprint {
         VisionRadius = 28,
     },
     Interface = {
-        HelpText = '<LOC seb2401_desc>Experimental Point Defense',
+        HelpText = '<LOC seb2401_desc>Défense expérimentale',
     },
     LifeBarHeight = 0.075,
     LifeBarOffset = 0.95,

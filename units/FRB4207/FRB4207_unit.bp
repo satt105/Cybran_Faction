@@ -70,13 +70,13 @@ UnitBlueprint {
         SubThreatLevel = 0,
         SurfaceThreatLevel = 0,
     },
-    Description = '<LOC urb4207_desc>Shield Generator',
+    Description = '<LOC urb4207_desc>Générateur de bouclier',
     Display = {
         Abilities = {
             '<LOC ability_shielddome>Shield Dome',
 	    '<LOC ability_upgradable>Upgradeable',
         },
-        AnimationUpgrade = 'mods/Shields/units/frb4401/FRB4401_Aopen.sca',
+        AnimationUpgrade = 'mods/Cybran_Faction/units/frb4401/FRB4401_Aopen.sca',
         Mesh = {
             IconFadeInZoom = 130,
             LODs = {
@@ -171,7 +171,7 @@ UnitBlueprint {
         VisionRadius = 20,
     },
     Interface = {
-        HelpText = '<LOC urb4207_help>Shield Generator',
+        HelpText = '<LOC urb4207_help>Générateur de bouclier',
     },
     LifeBarHeight = 0.075,
     LifeBarOffset = 1.25,
