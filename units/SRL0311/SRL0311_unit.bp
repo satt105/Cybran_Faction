@@ -236,7 +236,7 @@ UnitBlueprint {
             MuzzleSalvoDelay = 0,
             MuzzleSalvoSize = 1,
             MuzzleVelocity = 20,
-            ProjectileId = '/mods/Cybran_Faction/projectiles/CDFRocketIridium03/CDFRocketIridium03_proj.bp',
+            ProjectileId = '/mods/Cybran_Faction/projectiles/CDFRocketIridium04/CDFRocketIridium04_proj.bp',
             ProjectileLifetimeUsesMultiplier = 1.5,
             ProjectilesPerOnFire = 21,
             RackBones = {
